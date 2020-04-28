@@ -1,4 +1,4 @@
-# python_hobby repository
+# Python Hobby Repository
 
 **List of my hobby projects, scripts, GUI elements, algorithms, etc.**
 
